@@ -3,8 +3,10 @@ The Ultimate OG HD Pak, Allowing you to connect your Original XBOX to a TV or mo
 
 # Schematic
 ![Schematic Image](/images/OGHDPakSchematic.png)
-**EasyEDA Schematic:**
-[Schematic](http://github.com/M0RPH10U5/ultimate-og-hd-pak/Schematic.json)
+**Download:**
+[EasyEDA Schematic](http://github.com/M0RPH10U5/ultimate-og-hd-pak/Files/Schematic.json)
 
 # PCB
 ![PCB Image](/images/PCB.png)
+**Download:**
+[EasyEDA PCB](http://gitbub.com/M0RPH10U5/ultimate-og-hd-pak/Files/PCB.json)
