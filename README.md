@@ -13,7 +13,8 @@ I created this project for those that don't want or can't use those HDMI solutio
 
 **Note:**
 
-...
+You will either need to source a brand new Xbox AVIP, or clip one from an old composite/component cable, and solder it according to this diagram:
+![The Diagram is still being made.](/images/#.png)
 
 # Schematic
 ![Schematic Image](/images/OGHDPakSchematic.png)
