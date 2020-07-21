@@ -19,11 +19,11 @@ You will either need to source a brand new Xbox AVIP, or clip one from an old co
 # Schematic
 ![Schematic Image](/images/OGHDPakSchematic.png)
 **Download:**
-[EasyEDA Schematic](http://github.com/M0RPH10U5/ultimate-og-hd-pak/Files/Schematic.json)
+[EasyEDA Schematic](/Files/Schematic.json)
 
 # PCB
 ![PCB Image](/images/PCB.png)
 **Download:**
-[EasyEDA PCB](http://gitbub.com/M0RPH10U5/ultimate-og-hd-pak/Files/PCB.json)
+[EasyEDA PCB](/Files/PCB.json)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
