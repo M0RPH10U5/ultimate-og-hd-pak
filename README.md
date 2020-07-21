@@ -8,8 +8,8 @@ I created this project for those that don't want or can't use those HDMI solutio
 ![Bare PCB](/images/Bare.PNG) ![3D PCB](/images/3D.PNG)
 
 **Downloads:**
-* [Gerbers](http://github.com/M0RPH10U5/ultimate-og-hd-pak/Gerber_OGHD-Pak_2020-07-15_14-35-15.zip)
-* [BOM](http://github.com/M0RPH10U5/ultimate-og-hd-pak/Files/BOM.csv)
+* [Gerbers](http://github.com/M0RPH10U5/ultimate-og-hd-pak/master/FilesGerber_OGHD-Pak_2020-07-15_14-35-15.zip)
+* [BOM](http://github.com/M0RPH10U5/ultimate-og-hd-pak/master/Files/BOM.csv)
 
 **Note:**
 
