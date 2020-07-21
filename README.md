@@ -9,7 +9,7 @@ I created this project for those that don't want or can't use those HDMI solutio
 
 **Downloads:**
 * [Gerbers](http://github.com/M0RPH10U5/ultimate-og-hd-pak/Gerber_OGHD-Pak_2020-07-15_14-35-15.zip)
-* [BOM](http://github.com/M0RPH10U5/ultimate-og-hd-pak/BOM.csv)
+* [BOM](http://github.com/M0RPH10U5/ultimate-og-hd-pak/Files/BOM.csv)
 
 **Note:**
 
